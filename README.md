@@ -46,14 +46,31 @@ Architecting and developing AI models, blockchain integration, and automation pl
 - n8n workflow automation and agentic system design
 - Blockchain and claims processing system architecture
 
-### 2021–2025 | Large-Scale System Architecture & Delivery
+### 2021–2025 | Enterprise System Delivery & Architecture
 
-Led architecture, design, and delivery of complex enterprise systems. System integration, technical leadership, dependency management, infrastructure planning.
+System architecture and delivery of large-scale enterprise transformations. Program management, infrastructure planning, dependency frameworks, technical leadership.
 
 - Architected and delivered 3+ large-scale systems (5000+ man-days each) at 98% on-time delivery
 - Designed risk and dependency frameworks improving system reliability by 50%
-- Technical mentoring and cross-functional team coordination
-- Full-stack system design: infrastructure, APIs, database optimization
+- Technical strategy and cross-functional team coordination
+- Infrastructure design, API architecture, database optimization
+
+### 2015–2020 | Large-Scale Program Architecture & Delivery
+
+Led design and delivery of complex multi-year IT systems. Program architecture, dependency tracking, system integration, stakeholder technical alignment.
+
+- Risk and dependency management frameworks reducing delays by 50%
+- Infrastructure planning and technical feasibility analysis for enterprise programs
+- System architecture documentation and technical specifications
+- Mentorship and technical guidance for delivery teams
+
+### 2014–2015 | System Integration & Technical Coordination
+
+Technical coordination and system integration for enterprise implementations. Requirements documentation, technical planning, delivery oversight.
+
+- Project lifecycle coordination and technical documentation
+- System integration approach development
+- Vendor technical evaluation and coordination
 
 ### 2011–2013 | Full-Stack Mobile & Web Development
 
