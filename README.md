@@ -67,32 +67,32 @@
 
 ## Experience Highlights
 
-### 2025–Present | AI & Blockchain Solutions
+### 2025–Present | AI-Powered Solutions Development
 
-Technical solution design for AI-powered claims processing and blockchain platform. Solution architecture, rapid MVP prototyping (iOS/Web), AI-assisted development, and n8n-based workflow automation.
+Architecting and developing AI models, blockchain integration, and automation platforms. Rapid prototyping (iOS/Web/Android), LLM prompt engineering, n8n agentic workflows.
 
-- 40+ technical demonstrations to enterprise stakeholders (75% conversion progression)
-- Technical RFP/RFI management and enterprise deal strategy
-- Cross-platform prototyping (iOS/Web) using AI-assisted development to accelerate discovery cycles
-- n8n workflow automation for operational efficiency optimization
+- AI-assisted development to accelerate MVP cycles and technical discovery
+- Cross-platform prototyping (iOS, Web) for rapid validation
+- n8n workflow automation and agentic system design
+- Blockchain and claims processing system architecture
 
-### 2021–2025 | Enterprise IT Implementations & System Integration
+### 2021–2025 | Large-Scale System Architecture & Delivery
 
-End-to-end delivery of large-scale, multi-year IT transformations. Complex program management, vendor strategy, risk/dependency frameworks, budget control.
+Led architecture, design, and delivery of complex enterprise systems. System integration, technical leadership, dependency management, infrastructure planning.
 
-**Delivered:**
-- 3+ implementations (5000+ man-days each) at 98% on-time, 95% on-budget
-- Risk and dependency management frameworks reducing delays by 50%
-- Cost optimization through vendor management (25% savings)
-- 60% growth in repeat business through strategic delivery excellence
+- Architected and delivered 3+ large-scale systems (5000+ man-days each) at 98% on-time delivery
+- Designed risk and dependency frameworks improving system reliability by 50%
+- Technical mentoring and cross-functional team coordination
+- Full-stack system design: infrastructure, APIs, database optimization
 
-### 2011–2013 | Mobile App & Platform Development
+### 2011–2013 | Full-Stack Mobile & Web Development
 
-iOS app (Objective-C), web platform, and backend system (PhpMyAdmin). Built from concept to market launch, end-to-end: infrastructure, APIs, mobile UI/UX, operations.
+Built complete iOS application (Objective-C), web platform (JavaScript/PHP), and backend infrastructure (PhpMyAdmin) from zero to production.
 
-- Full-stack platform development and market launch
-- User acquisition from zero to sustainable active base
-- Infrastructure, mobile development, business operations
+- iOS app architecture and development (Objective-C)
+- Web platform and API layer design
+- Database schema design and optimization
+- Production launch and operations
 
 ---
 
