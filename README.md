@@ -1,9 +1,8 @@
 # Hi, I'm Fred Cheung 👋
 
-**Senior Presales Manager & AI-Augmented Developer**  
-MBA-qualified strategic leader with 14+ years driving digital transformations in insurtech & financial services.
+**Strategic Technology Leader & AI Solutions Architect**
 
-Hands-on builder (iOS/Web/Android) + automation architect. Translate C-level goals into scalable AI solutions and agentic workflows — proven track record: 60% repeat business lift, 50% delivery delay reduction.
+14+ years architecting digital transformations with focus on AI, blockchain, automation, and enterprise delivery. Hands-on builder (iOS/Web/Android) + systems thinking. Track record: 60% business growth, 50% efficiency gains, 98% on-time delivery.
 
 ---
 
@@ -68,35 +67,32 @@ Hands-on builder (iOS/Web/Android) + automation architect. Translate C-level goa
 
 ## Experience Highlights
 
-### Senior Presales Manager & Solutions Architect
-**AI & Blockchain Insurance Solutions | 2025–Present**
+### 2025–Present | AI & Blockchain Solutions
 
-Leading presales strategy for an insurtech platform delivering AI-powered claims processing and blockchain integration. Role spans technical solution design, C-level engagement, RFP/RFI strategy, and AI-assisted MVP prototyping.
+Technical solution design for AI-powered claims processing and blockchain platform. Solution architecture, rapid MVP prototyping (iOS/Web), AI-assisted development, and n8n-based workflow automation.
 
-- Delivered 40+ customized technical demonstrations to C-level executives (75% conversion rate to sales cycle progression)
-- Managed technical RFP/RFI responses for enterprise deals, driving competitive bid wins
-- Rapid prototyping: built functional MVPs and cross-platform prototypes (iOS/Web) using AI-assisted development to compress technical discovery
-- Architected n8n-based automation agents for internal RFP analysis and prospecting workflow optimization
+- 40+ technical demonstrations to enterprise stakeholders (75% conversion progression)
+- Technical RFP/RFI management and enterprise deal strategy
+- Cross-platform prototyping (iOS/Web) using AI-assisted development to accelerate discovery cycles
+- n8n workflow automation for operational efficiency optimization
 
-### Enterprise Program & Project Manager
-**Large-Scale IT Implementations & System Integration | 2021–2025**
+### 2021–2025 | Enterprise IT Implementations & System Integration
 
-Directed end-to-end delivery of complex, multi-year IT transformations for enterprise clients. Spanned vendor management, risk mitigation, budget control, and C-level stakeholder alignment.
+End-to-end delivery of large-scale, multi-year IT transformations. Complex program management, vendor strategy, risk/dependency frameworks, budget control.
 
-**Key Achievements:**
-- Delivered 3+ large-scale implementations (5000+ man-days each) at 98% on-time and 95% on-budget
-- Implemented risk and dependency management frameworks reducing schedule delays by 50% and improving stakeholder decision velocity by 20%
-- Negotiated vendor performance and terms, reducing project costs by 25% through procurement optimization
-- Grew repeat client business 60% through proactive strategic alignment and delivery excellence
+**Delivered:**
+- 3+ implementations (5000+ man-days each) at 98% on-time, 95% on-budget
+- Risk and dependency management frameworks reducing delays by 50%
+- Cost optimization through vendor management (25% savings)
+- 60% growth in repeat business through strategic delivery excellence
 
-### Mobile App & Platform Co-Founder
-**EdTech Startup | 2011–2013**
+### 2011–2013 | Mobile App & Platform Development
 
-Founded and bootstrapped tutorial agent app platform from concept to market. Full-stack responsibility: iOS app development (Objective-C), web platform architecture, backend database design (PhpMyAdmin), and business operations.
+iOS app (Objective-C), web platform, and backend system (PhpMyAdmin). Built from concept to market launch, end-to-end: infrastructure, APIs, mobile UI/UX, operations.
 
-- Built complete iOS app + web platform + operational backend system
-- Scaled user acquisition from zero to sustainable active user base
-- Demonstrated end-to-end builder capability: infrastructure, APIs, mobile UI/UX, and business execution
+- Full-stack platform development and market launch
+- User acquisition from zero to sustainable active base
+- Infrastructure, mobile development, business operations
 
 ---
 
