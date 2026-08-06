@@ -35,36 +35,6 @@
 
 ---
 
-## Professional Certifications
-
-**Cloud & Solution Architecture**
-- AWS Certified Solutions Architect Professional
-- Azure Certified: Solutions Architect Expert
-- Google Cloud Certified: Professional Cloud Architect
-- Oracle Certified Associate: Cloud Infrastructure
-
-**AI & Automation**
-- AWS Certified Machine Learning – Specialty
-
-**Agile & Scaled Frameworks**
-- SAFe 6 Program Consultant (SPC), Release Train Engineer (RTE), Lean Portfolio Manager (LPM)
-- ICAgile Certified Professional – Agile Coaching (ICP-ACC)
-- Professional Scrum Master II (PSM II) & Professional Scrum Product Owner II (PSPO II)
-
-**Project Management & Security**
-- Project Management Professional (PMP)
-- Lean Six Sigma Black Belt (LSSBB)
-- Certified Information Security Manager (CISM) & Certified Information Systems Auditor (CISA)
-
----
-
-## Education
-
-- **Master of Business Administration (MBA)** — The Hong Kong University of Science and Technology (HKUST), 2024
-- **BSc (Hons) in Computer Science** — City University of Hong Kong, 2014
-
----
-
 ## Experience Highlights
 
 ### 2025–Present | AI-Powered Solutions Development
