@@ -1,0 +1,17 @@
+# Ignore PDF files (CV, credentials, sensitive docs)
+*.pdf
+
+# Ignore macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore editor temp files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ignore OS-specific folders
+.claude/

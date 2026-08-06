@@ -1,41 +1,102 @@
 # Hi, I'm Fred Cheung 👋
 
-Full-stack engineer working across web, mobile, and data — from React/TypeScript frontends to Go/Python backends and native mobile apps.
+**Senior Presales Manager & AI-Augmented Developer**  
+MBA-qualified strategic leader with 14+ years driving digital transformations in insurtech & financial services.
 
-Most of my work lives in private/proprietary repositories, so this profile leads with **what I've built and the impact it had** — see [Project Case Studies](#project-case-studies) below.
+Hands-on builder (iOS/Web/Android) + automation architect. Translate C-level goals into scalable AI solutions and agentic workflows — proven track record: 60% repeat business lift, 50% delivery delay reduction.
 
 ---
 
 ## Tech Stack
 
-**Frontend & Web**
+**Cloud & Solution Architecture**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-**Backend & Systems**
+**AI & Automation**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-E74C3C?style=for-the-badge&logo=n8n&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM%20Prompt%20Engineering-412991?style=for-the-badge&logoColor=white)
 
-**Mobile**
+**Mobile & Web Development**
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-000000?style=for-the-badge&logo=objective-c&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Data & ML**
+**Delivery & Leadership**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-1F72B0?style=for-the-badge&logoColor=white)
+![SAFe](https://img.shields.io/badge/SAFe-4FA3D1?style=for-the-badge&logoColor=white)
+![PMP](https://img.shields.io/badge/PMP-5BA3D0?style=for-the-badge&logoColor=white)
+![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-3DDC84?style=for-the-badge&logoColor=white)
+
+---
+
+## Professional Certifications
+
+**Cloud & Solution Architecture**
+- AWS Certified Solutions Architect Professional
+- Azure Certified: Solutions Architect Expert
+- Google Cloud Certified: Professional Cloud Architect
+- Oracle Certified Associate: Cloud Infrastructure
+
+**AI & Automation**
+- AWS Certified Machine Learning – Specialty
+
+**Agile & Scaled Frameworks**
+- SAFe 6 Program Consultant (SPC), Release Train Engineer (RTE), Lean Portfolio Manager (LPM)
+- ICAgile Certified Professional – Agile Coaching (ICP-ACC)
+- Professional Scrum Master II (PSM II) & Professional Scrum Product Owner II (PSPO II)
+
+**Project Management & Security**
+- Project Management Professional (PMP)
+- Lean Six Sigma Black Belt (LSSBB)
+- Certified Information Security Manager (CISM) & Certified Information Systems Auditor (CISA)
+
+---
+
+## Education
+
+- **Master of Business Administration (MBA)** — The Hong Kong University of Science and Technology (HKUST), 2024
+- **BSc (Hons) in Computer Science** — City University of Hong Kong, 2014
+
+---
+
+## Experience Highlights
+
+### Senior Presales Manager & Solutions Architect
+**AI & Blockchain Insurance Solutions | 2025–Present**
+
+Leading presales strategy for an insurtech platform delivering AI-powered claims processing and blockchain integration. Role spans technical solution design, C-level engagement, RFP/RFI strategy, and AI-assisted MVP prototyping.
+
+- Delivered 40+ customized technical demonstrations to C-level executives (75% conversion rate to sales cycle progression)
+- Managed technical RFP/RFI responses for enterprise deals, driving competitive bid wins
+- Rapid prototyping: built functional MVPs and cross-platform prototypes (iOS/Web) using AI-assisted development to compress technical discovery
+- Architected n8n-based automation agents for internal RFP analysis and prospecting workflow optimization
+
+### Enterprise Program & Project Manager
+**Large-Scale IT Implementations & System Integration | 2021–2025**
+
+Directed end-to-end delivery of complex, multi-year IT transformations for enterprise clients. Spanned vendor management, risk mitigation, budget control, and C-level stakeholder alignment.
+
+**Key Achievements:**
+- Delivered 3+ large-scale implementations (5000+ man-days each) at 98% on-time and 95% on-budget
+- Implemented risk and dependency management frameworks reducing schedule delays by 50% and improving stakeholder decision velocity by 20%
+- Negotiated vendor performance and terms, reducing project costs by 25% through procurement optimization
+- Grew repeat client business 60% through proactive strategic alignment and delivery excellence
+
+### Mobile App & Platform Co-Founder
+**EdTech Startup | 2011–2013**
+
+Founded and bootstrapped tutorial agent app platform from concept to market. Full-stack responsibility: iOS app development (Objective-C), web platform architecture, backend database design (PhpMyAdmin), and business operations.
+
+- Built complete iOS app + web platform + operational backend system
+- Scaled user acquisition from zero to sustainable active user base
+- Demonstrated end-to-end builder capability: infrastructure, APIs, mobile UI/UX, and business execution
 
 ---
 
@@ -50,40 +111,6 @@ Most of my work lives in private/proprietary repositories, so this profile leads
 
 ---
 
-## Project Case Studies
-
-These are private/proprietary projects — described here rather than linked, since the repos aren't publicly accessible.
-
-### [Project Name]
-**Role:** [e.g., Lead Full-Stack Engineer] · **Timeframe:** [e.g., 2023–Present]  
-**Stack:** `Technology` `Stack` `Here`
-
-[1-2 sentences: what the product/system does and who it's for. Name the company/client if that's not sensitive, or describe the domain generically.]
-
-**What I built:**
-- [Concrete feature/system you owned]
-- [Concrete feature/system you owned]
-- [Concrete feature/system you owned]
-
-**Impact:** [Quantified outcome — load time reduced X%, scaled to X users, X hours/cost saved, etc.]
-
----
-
-### Example: Internal Logistics Platform
-**Role:** Lead Full-Stack Engineer · **Timeframe:** 2022–2024  
-**Stack:** `React` `Node.js` `PostgreSQL` `AWS`
-
-Built an internal logistics and order-management system for a mid-size retail company, handling inventory tracking, real-time shipment updates, and warehouse operations.
-
-**What I built:**
-- Designed and implemented the full-stack architecture from scratch, migrating from legacy spreadsheet-based workflows
-- Built a real-time dashboard in React showing live inventory and dispatch status across 15+ warehouses
-- Created high-performance PostgreSQL schemas and APIs supporting concurrent warehouse operations
-- Deployed on AWS with auto-scaling for peak seasonal traffic
-
-**Impact:** Reduced manual data-entry time by 40 hours/week, scaled to handle 1000+ daily shipments without performance degradation, eliminated coordinated manual reconciliation steps between teams.
-
----
 
 ## Contact
 
