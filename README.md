@@ -1,4 +1,4 @@
-# Hi, I'm Fred Cheung 👋
+# Hi, I'm WC Cheung 👋
 
 **Strategic Technology Leader & AI Solutions Architect**
 
