@@ -16,15 +16,16 @@
 
 **AI & Automation**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-E74C3C?style=for-the-badge&logo=n8n&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM%20Prompt%20Engineering-412991?style=for-the-badge&logoColor=white)
 
 **Mobile & Web Development**
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-000000?style=for-the-badge&logo=objective-c&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Delivery & Leadership**
 
@@ -39,10 +40,10 @@
 
 ### 2025–Present | AI-Powered Solutions Development
 
-Architecting and developing AI models, blockchain integration, and automation platforms. Rapid prototyping (iOS/Web/Android), LLM prompt engineering, n8n agentic workflows.
+Architecting and developing AI models, blockchain integration, and automation platforms. Rapid prototyping (React Native/Expo, Next.js), LLM prompt engineering, n8n agentic workflows.
 
 - AI-assisted development to accelerate MVP cycles and technical discovery
-- Cross-platform prototyping (iOS, Web) for rapid validation
+- Cross-platform prototyping (React Native/Expo, Web) for rapid validation
 - n8n workflow automation and agentic system design
 - Blockchain and claims processing system architecture
 
